@@ -1,3 +1,4 @@
+
 (fp_lib_table
-  (lib (name ShittyAddonHat)(type KiCad)(uri "$(KIPRJMOD)/ShittyAddonHat.pretty")(options "")(descr ""))
+  (lib (name "mySAOhat")(type KiCad)(uri "$(KIPRJMOD)/mySAOhat.pretty")(options "")(descr ""))
 )

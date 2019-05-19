@@ -1,4 +1,4 @@
 
 (fp_lib_table
-  (lib (name "mySAOhat")(type KiCad)(uri "$(KIPRJMOD)/mySAOhat.pretty")(options "")(descr ""))
+  (lib (name "BigBadMoonSimple")(type KiCad)(uri "$(KIPRJMOD)/BigBadMoonSimple.pretty")(options "")(descr ""))
 )
